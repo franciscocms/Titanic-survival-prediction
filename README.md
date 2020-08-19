@@ -3,8 +3,8 @@
 Machine Learning project to predict passenger survival in Titanic disaster.
 
 **Dataset Preview**
-![Dataset Preview](/images/df_head.png)
 
+<img src="https://github.com/franciscocms/Titanic-survival-prediction/blob/master/images/df_head.png" width="400" height="790">
 
 
 **Feature Engineering**
