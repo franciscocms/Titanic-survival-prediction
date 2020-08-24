@@ -8,10 +8,10 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 
 Feature Overview:
 
-**PassengerId** - passenger identification number
+**PassengerId** - passenger identification number\
 **Survived** - target feature (0 or 1):
 * 1 = Survived
-* 0 = Not Survived
+* 0 = Not Survived\
 **Pclass** Each passenger class - integer feature with 3 unique values (1, 2 or 3):
 * 1 = Upper Class
 * 2 = Middle Class
