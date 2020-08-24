@@ -11,11 +11,14 @@ Feature Overview:
 **PassengerId** - passenger identification number\
 **Survived** - target feature (0 or 1):
 * 1 = Survived
-* 0 = Not Survived\
+* 0 = Not Survived
+
 **Pclass** Each passenger class - integer feature with 3 unique values (1, 2 or 3):
 * 1 = Upper Class
 * 2 = Middle Class
 * 3 = Lower Class
+
+
 Name, Sex and Age are self-explanatory
 SibSp is the total number of the passengers' siblings and spouse
 Parch is the total number of the passengers' parents and children
