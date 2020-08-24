@@ -19,7 +19,7 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 * 3 = Lower Class
 
 
-*Name*, *Sex*, *Age*\
+*Name*, *Sex*, *Age*
 
 
 *SibSp* - total number of the passengers' siblings and spouse\
