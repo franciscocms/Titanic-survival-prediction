@@ -19,16 +19,18 @@ Feature Overview:
 * 3 = Lower Class
 
 
-Name, Sex and Age are self-explanatory
-SibSp is the total number of the passengers' siblings and spouse
-Parch is the total number of the passengers' parents and children
-Ticket is the ticket number of the passenger
-Fare is the passenger fare
-Cabin is the cabin number of the passenger
-Embarked is port of embarkation and it is a categorical feature which has 3 unique values (C, Q or S):
-C = Cherbourg
-Q = Queenstown
-S = Southampton
+**Name**\
+**Sex**\
+**Age**\
+**SibSp** - total number of the passengers' siblings and spouse\
+**Parch** - total number of the passengers' parents and children\
+**Ticket** - ticket number of the passenger\
+**Fare** - passenger fare\
+**Cabin** - cabin number of the passenger\
+**Embarked** - port of embarkation -> categorical feature of 3 unique values (C, Q or S):
+* C = Cherbourg
+* Q = Queenstown
+* S = Southampton
 
 
 **Feature Engineering**
