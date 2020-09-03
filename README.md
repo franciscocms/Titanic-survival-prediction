@@ -37,5 +37,5 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 
 **Improving Classification:**
 
-- creating more features;\
-- one-hot encoding instead of label encoding features;\
+- creating more features;
+- one-hot encoding instead of label encoding features;
