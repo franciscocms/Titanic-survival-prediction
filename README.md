@@ -39,3 +39,7 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 
 - creating more features;
 - one-hot encoding instead of label encoding features;
+
+Link to Kaggle Notebook
+http://github.com - automatic!
+[GitHub](http://github.com)
