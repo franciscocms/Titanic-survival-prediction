@@ -32,6 +32,11 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 * Q = Queenstown
 * S = Southampton
 
+**Dealing with missing values:**
+
+*Age and Cabin* features: 19% and 77% missing values on training set, respectively;\
+*Embarked*: only 0.2% missing
+
 
 **Feature Engineering**
 
