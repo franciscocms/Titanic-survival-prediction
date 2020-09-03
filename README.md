@@ -1,6 +1,7 @@
 # Titanic-survival-prediction
 
-Machine Learning project to predict passenger survival in Titanic disaster.
+Machine Learning project to predict passenger survival in Titanic disaster.\
+https://www.kaggle.com/c/titanic/overview
 
 **Dataset Preview**
 
@@ -40,6 +41,5 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 - creating more features;
 - one-hot encoding instead of label encoding features;
 
-Link to Kaggle Notebook
-http://github.com - automatic!
-[GitHub](http://github.com)
+Link to [Kaggle Notebook!](https://www.kaggle.com/franciscosilva10/titanic-notebook)
+
