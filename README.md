@@ -21,7 +21,6 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 
 *Name*, *Sex*, *Age*
 
-
 *SibSp* - total number of the passengers' siblings and spouse\
 *Parch* - total number of the passengers' parents and children\
 *Ticket* - ticket number of the passenger\
@@ -32,13 +31,11 @@ Machine Learning project to predict passenger survival in Titanic disaster.
 * Q = Queenstown
 * S = Southampton
 
-**Dealing with missing values:**
 
-*Age and Cabin* features: 19% and 77% missing values on training set, respectively;\
-*Embarked*: only 0.2% missing
+**Classifier explored:** Multi-Layer Perceptron
+**Submission Accuracy:** 0.75
 
+**Improving Classification:**
 
-**Feature Engineering**
-
-
-**Model explored:** Multi-Layer Perceptron
+- creating more features;\
+- one-hot encoding instead of label encoding features;\
