@@ -33,13 +33,12 @@ https://www.kaggle.com/c/titanic/overview
 * S = Southampton
 
 
-**Classifier explored:** Multi-Layer Perceptron
-**Submission Accuracy:** 0.75
+**Classifiers explored:** 
+* Random Forest: accuracy achieved (~0.75) with simple parameters tuning;
+* Multi-layer perceptron (pytorch implementation): acc achieved (~0.78 -> personal highscore) with heavy tuning + decision threshold optimization on validation data;
 
-**Improving Classification:**
+**Higher Submission Accuracy:** 0.78229 (top 23% - **ongoing**)
 
-- creating more features;
-- one-hot encoding instead of label encoding features;
 
 Link to [Kaggle Notebook!](https://www.kaggle.com/franciscosilva10/titanic-notebook)
 
