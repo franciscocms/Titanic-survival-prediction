@@ -35,7 +35,7 @@ https://www.kaggle.com/c/titanic/overview
 
 **Classifiers explored:** 
 * Random Forest: accuracy achieved (~0.75) with simple parameters tuning;
-* Multi-layer perceptron (pytorch implementation): accuracy achieved (~0.78 -> personal highscore) with heavy parameters tuning + decision threshold optimization on validation data;
+* Multi-layer perceptron (pytorch implementation): accuracy achieved (~0.78 -> personal highscore) with heavy parameters tuning + decision threshold f-score maximization on validation data;
 
 **Higher Test Accuracy:** 0.78229 (top 23% - **ongoing**)
 
